@@ -19,7 +19,7 @@ This is a simple web application that demonstrates how to create a Todos List us
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/kumar964050/React-Redux.git
+   git clone https://github.com/kumar964050/React-Redux-todos-list.git
    
 Certainly! Here's the entire content as a single README.md file:
 
