@@ -1,32 +1,5 @@
 # React Redux Todos List with Bootstrap
 
-This is a simple web application that demonstrates how to create a Todos List using React and Redux, styled with Bootstrap.
-
-## Features
-
-- Add new todos to the list.
-- Mark todos as complete.
-- Delete todos from the list.
-- Store todos using Redux for state management.
-- Styled using Bootstrap for a responsive and clean design.
-
-## Getting Started
-
-
-
-### Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/kumar964050/React-Redux-todos-list.git
-   
-Certainly! Here's the entire content as a single README.md file:
-
-markdown
-Copy code
-# React Redux Todos List with React Bootstrap
-
 This is a simple web application that demonstrates how to create a Todos List using React and Redux, styled with React Bootstrap.
 
 ## Features
@@ -39,18 +12,12 @@ This is a simple web application that demonstrates how to create a Todos List us
 
 ## Getting Started
 
-### Prerequisites
-
-Before you begin, ensure you have the following software installed:
-
-- Node.js: You can download it from [nodejs.org](https://nodejs.org/)
-
 ### Installation
 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/react-redux-todos.git
+   git clone https://github.com/kumar964050/React-Redux-todos-list.git
 
    cd react-redux
    npm install
