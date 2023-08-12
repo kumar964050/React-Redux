@@ -8,7 +8,7 @@ This is a simple web application that demonstrates how to create a Todos List us
 - Mark todos as complete.
 - Delete todos from the list.
 - Store todos using Redux for state management.
-- Styled using React Bootstrap for a responsive and clean design.
+- Styled using Bootstrap for a responsive and clean design.
 
 ## Getting Started
 
